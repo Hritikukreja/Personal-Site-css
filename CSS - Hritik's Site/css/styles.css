@@ -1,0 +1,19 @@
+body{ background-color: #5893d4; text-align: center;}
+
+h1{  font-family: 'Poiret One', cursive; margin: 35px 0px 5px 0px;}
+
+p { font-family: 'Poppins', sans-serif; margin: 0px;}
+
+.content {font-size: 35px; color: #0f3460; }
+
+.cloud { width: 13%; position: relative; right: 220px; top: -60px;}
+.cloud1 { width: 10%; position: relative; left: 50px; top: 20px;}
+
+.graphic {width: 150px;}
+.graphic:hover {width: 175px;}
+
+.marketing {width: 150px;}
+.marketing:hover {width: 175px;}
+
+.automation {width: 150px;}
+.automation:hover {width: 175px;}
